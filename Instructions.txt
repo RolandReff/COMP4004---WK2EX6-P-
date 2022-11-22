@@ -1,0 +1,6 @@
+Instructions
+If you wish to send a cylindrical package to the USA by Royal Mail, then it must meet the following criteria (set out at https://send.royalmail.com/send/youritem?country=USA&amp;weight=190&amp;weightUnit=G
+•	The weight must be no more than 2000g
+•	The length must be no more than 90cm
+•	The length + twice the diameter must be no more than 104cm.
+Write a program that requires the user to input the weight as an integer (in g), the length as an integer (in cm) and then the diameter as an integer (also in cm). The program should output either Yes or No depending on whether the package meets the rules.
