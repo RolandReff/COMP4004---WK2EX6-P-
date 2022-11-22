@@ -1,5 +1,4 @@
 # COMP4004-WK2EX6-P-HenRolRef
-Instructions
 If you wish to send a cylindrical package to the USA by Royal Mail, then it must meet the following criteria (set out at https://send.royalmail.com/send/youritem?country=USA&amp;weight=190&amp;weightUnit=G
 •	The weight must be no more than 2000g
 •	The length must be no more than 90cm
